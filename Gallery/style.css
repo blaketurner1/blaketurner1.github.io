@@ -1,0 +1,99 @@
+* {
+  font-family: 'Roboto Mono', monospace;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+header{
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+  padding-top: 2%;
+}
+
+.navbar {
+  padding: 2%;
+  text-align: center;
+}
+
+.navbar a {
+  padding: 2%;
+}
+
+
+.navbar_ul > li {
+  list-style-type: none;
+  text-align: center;
+  display: inline;
+}
+
+
+
+
+.Gallery {
+  padding-bottom: 5%;
+  text-align: center;
+  position: relative;
+}
+
+.contact_icon {
+  text-align: center;
+  padding: 2%;
+}
+
+.helvetica_imgs img {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.helvetica_imgs td {
+  text-align: center;
+  padding: 2%;
+}
+
+.helvetica_imgs {
+  margin: 0 auto;
+  width: 75%;
+}
+
+#top_row {
+  width: 48%;
+}
+
+img {
+    transition:transform 0.25s ease;
+}
+
+img:hover {
+      -webkit-transform:scale(1.15);
+    transform:scale(1.15);
+}
+
+.jump_top {
+  text-align: center;
+  padding: 2%;
+  font-size: 90%;
+}
+
+
+/* Links */
+
+a {
+  text-decoration: none;
+  color: black;
+  transition: transform 0.25s ease;
+}
+
+a:visited {
+  color: grey;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+}

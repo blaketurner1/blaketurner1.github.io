@@ -1,0 +1,89 @@
+* {
+  font-family: 'Roboto Mono', monospace;
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  padding-top: 2%;
+  padding-bottom: 2%;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 100px;
+  min-height: auto;
+  max-width: 500px;
+  max-height: auto;
+  height: 75%;
+  width: 75%;
+  padding-bottom: 2%;
+}
+
+.email_line {
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 3%;
+}
+
+.email_line > a {
+  text-decoration: none;
+  color: black;
+}
+
+.navbar {
+  text-align: center;
+}
+
+.navbar a {
+  padding: 2%;
+  color: grey;
+}
+
+.navbar_ul > li {
+  list-style-type: none;
+  text-align: center;
+  display: inline;
+}
+
+.right_quote {
+  margin: 0 auto;
+  width: 260px;
+  padding-bottom: 2%;
+}
+
+span.red {
+  color: #ff5757;
+}
+
+a:hover {
+  color: red;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+body {
+  background-image: url("/Users/blaketurner/Creative Cloud Files/School/Fall 2021/Web Design/Project 2 Website/Pattern/double-bubble-outline/double-bubble-outline.png");
+}
+
+
+/* .icon_list {
+  float: right;
+  padding-bottom: 2%;
+  margin-right: 15%;
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul > li {
+  margin: 10px 0; */
+}
