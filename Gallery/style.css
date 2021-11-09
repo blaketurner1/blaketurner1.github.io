@@ -5,7 +5,6 @@
 }
 
 
-
 header{
   text-align: center;
   font-family: 'Roboto Mono', monospace;
@@ -96,4 +95,15 @@ a:visited {
 
 a:hover {
   color: red;
+}
+
+/* flexbox for navbar */
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.navbar a {
+  padding: 2%;
 }
