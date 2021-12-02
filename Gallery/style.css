@@ -14,24 +14,6 @@ h1 {
   padding-top: 2%;
 }
 
-.navbar {
-  padding: 2%;
-  text-align: center;
-}
-
-.navbar a {
-  padding: 2%;
-}
-
-
-.navbar_ul > li {
-  list-style-type: none;
-  text-align: center;
-  display: inline;
-}
-
-
-
 
 .Gallery {
   padding-bottom: 5%;
@@ -97,9 +79,24 @@ a:hover {
   color: red;
 }
 
+.navbar {
+  padding: 2%;
+  text-align: center;
+}
+
+.navbar a {
+  padding: 2%;
+}
+
+
+.navbar_ul > li {
+  list-style-type: none;
+  text-align: center;
+  display: inline;
+}
 /* flexbox for navbar */
-ul {
+/* ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-}
+} */
