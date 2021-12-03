@@ -9,6 +9,10 @@ h1 {
   padding: 2%;
 }
 
+.middletd {
+  text-align: center;
+}
+
 .navbar {
   text-align: center;
   text-decoration: none;
