@@ -1,0 +1,29 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+  padding: 2%;
+}
+
+col {
+  padding: 2%;
+}
+
+img {
+  padding-bottom: 2%;
+}
+
+.image_container {
+  position: relative;
+  text-align: center;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 1000%;
+}
