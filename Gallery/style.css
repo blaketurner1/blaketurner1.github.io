@@ -70,10 +70,10 @@ a {
   transition: transform 0.25s ease;
 }
 
-a:visited {
+/* a:visited {
   color: grey;
   text-decoration: none;
-}
+} */
 
 a:hover {
   color: red;
