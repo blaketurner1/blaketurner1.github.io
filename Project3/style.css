@@ -17,7 +17,6 @@ img {
 .container-fluid {
   position: relative;
   text-align: center;
-  padding-right: : 0%;
 }
 
 .centered {
@@ -32,4 +31,9 @@ img {
 
 .form-label {
   text-align: center;
+}
+
+.thumbnail_text {
+  color: White;
+  z-index: 5;
 }
