@@ -14,9 +14,10 @@ img {
   padding-bottom: 2%;
 }
 
-.container-md {
+.container-fluid {
   position: relative;
   text-align: center;
+  padding-right: : 0%;
 }
 
 .centered {
